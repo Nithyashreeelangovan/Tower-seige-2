@@ -1,2 +1,2 @@
-# Tower-seige-2
-This is my WhiteHat Jr. project 
+# p5.play-boilerplate
+Boiler plate for p5.play
